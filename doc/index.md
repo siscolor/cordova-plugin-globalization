@@ -148,8 +148,8 @@ dialog with the text `locale: en-US`.
 
 ### Android Quirks
 
-- Java does not distinguish between a set "langauge" and set "locale," so this
-method is essentially the same as `navigator.globalizatin.getPreferredLanguage()`.
+- Java does not distinguish between a set "language" and set "locale," so this
+method is essentially the same as `navigator.globalization.getPreferredLanguage()`.
 
 ### Windows Phone 8 Quirks
 
